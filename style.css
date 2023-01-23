@@ -1,11 +1,12 @@
+html{
+    background: #e3e3e3;
+}
+
 body {
     font-family: sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 auto;
-    height: 100vh;
-    background-color: #f1f1f1;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: #fff;
 }
 
 img {
