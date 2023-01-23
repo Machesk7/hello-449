@@ -8,6 +8,6 @@ body {
 }
 
 img.resize {
-    max-width: 540px;
+    max-width: 240px;
     height: auto;
 }
