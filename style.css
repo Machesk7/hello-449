@@ -9,6 +9,16 @@ body {
     background: #fff;
 }
 
+nav {
+    background-color: #fff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    position: sticky;
+    top: 0px;
+}
+
+
 img {
     height: auto;
     width: auto;
