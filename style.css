@@ -7,7 +7,7 @@ body {
     background-color: #f1f1f1;
 }
 
-img {
-    max-width: 100%;
+img.resize {
+    max-width: 540px;
     height: auto;
 }
